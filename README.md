@@ -10,4 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-[![validation](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml/badge.svg)](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml)
+[![buildand validation](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml/badge.svg)](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml)
+
+
+[![build and test](https://github.com/bl344956442/bl344956442/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/bl344956442/bl344956442/actions/workflows/build-and-test.yml)

@@ -9,8 +9,4 @@ bl344956442/bl344956442 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-[![buildand validation](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml/badge.svg)](https://github.com/bl344956442/bl344956442/actions/workflows/build-validation.yml)
-
-
-[![build and test](https://github.com/bl344956442/bl344956442/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/bl344956442/bl344956442/actions/workflows/build-and-test.yml)
+[![build](https://github.com/bl344956442/FelixRepository/actions/workflows/build-validation.yml/badge.svg)](https://github.com/bl344956442/FelixRepository/actions/workflows/build-validation.yml)
